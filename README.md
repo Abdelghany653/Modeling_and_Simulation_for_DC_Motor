@@ -43,3 +43,6 @@ Verification using Proteus and SerialPlot:
 The mathematical model of the DC motor using Matlab and Simulink:
 
 ![DC Motor Simulation](DC%20motor%20modeling%20and%20simulation_2.png)
+
+##  Results
+![DC Motor Simulation](dc_motor_connection.png)
