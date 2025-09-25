@@ -1,6 +1,6 @@
 # Modeling_and_Simulation_for_DC_Motor
 
-## 🔹 Abstract
+##  Abstract
 This project focuses on modeling, simulation, and control of a DC motor system.  
 The motor’s electrical and mechanical parameters were estimated through experimental testing and simulation. **MATLAB/Simulink** was used to develop a mathematical model and verify motor dynamics.  
 A **PID controller** was designed and tuned to regulate motor speed using PWM signals.  
@@ -9,7 +9,7 @@ Verification was performed using **Proteus simulation** and **SerialPlot visuali
 
 ---
 
-## 🔹 Block Diagram (Conceptual Flow)
+##  Block Diagram (Conceptual Flow)
 
 1. **MATLAB/Simulink Modeling** → Build motor equations & simulate open-loop response.  
 2. **Parameter Estimation** → Extract motor parameters:  
@@ -27,7 +27,7 @@ Verification was performed using **Proteus simulation** and **SerialPlot visuali
 
 ---
 
-## 🔹 Tools & Technologies
+##  Tools & Technologies
 - MATLAB/Simulink  
 - C++  
 - Proteus  
@@ -35,7 +35,7 @@ Verification was performed using **Proteus simulation** and **SerialPlot visuali
 
 ---
 
-## 🔹 Results
+##  Results
 Verification using Proteus and SerialPlot:
 
 ![DC Motor Simulation](DC%20motor%20modeling%20and%20simulation_1.png)
