@@ -38,6 +38,6 @@ Verification was performed using **Proteus simulation** and **SerialPlot visuali
 ## 🔹 Results
 Verification using Proteus and SerialPlot:
 
-![DC Motor Simulation](DC motor modeling and simulation_1.png)
+![DC Motor Simulation](DC%20motor%20modeling%20and%20simulation_1.png)
 
 
