@@ -25,7 +25,6 @@ Verification was performed using **Proteus simulation** and **SerialPlot visuali
 5. **Hardware-in-the-Loop (HIL)** → Test system with real motor and compare with model.  
 6. **Verification** → Use **Proteus + SerialPlot** for visualization and validation.  
 
----
 
 ##  Tools & Technologies
 - MATLAB/Simulink  
@@ -33,7 +32,9 @@ Verification was performed using **Proteus simulation** and **SerialPlot visuali
 - Proteus  
 - SerialPlot  
 
----
+##  Connections
+![DC Motor Simulation](dc_motor_connection.jpeg)
+
 
 ##  Results
 Verification using Proteus and SerialPlot:
@@ -44,5 +45,4 @@ The mathematical model of the DC motor using Matlab and Simulink:
 
 ![DC Motor Simulation](DC%20motor%20modeling%20and%20simulation_2.png)
 
-##  Results
-![DC Motor Simulation](dc_motor_connection.png)
+
